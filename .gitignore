@@ -1,0 +1,14 @@
+*.env
+*.bsp
+*.idea
+*.iml
+*.db
+.ivy2
+.sbt
+.cache
+target/
+tmp/
+project/target/
+project/project/
+uncommitted/
+warehouse.db
