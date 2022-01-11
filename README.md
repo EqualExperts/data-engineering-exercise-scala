@@ -1,4 +1,4 @@
-[![Scala exercise](https://github.com/EqualExperts/data-engineering-exercise-scala/actions/workflows/scala-exercise.yml/badge.svg)](https://github.com/EqualExperts/data-studio-exercise-python-sql/actions/workflows/scala-exercise.yml)
+[![Scala Exercise](https://github.com/EqualExperts/data-engineering-exercise-scala/actions/workflows/scala-exercise.yml/badge.svg)](https://github.com/EqualExperts/data-engineering-exercise-scala/actions/workflows/scala-exercise.yml)
 ## Data Engineering Challenge
 Thank you for taking the time to participate in this challenge. Please read carefully all the instructions below and don’t hesitate to contact us if you have any queries. 
 
