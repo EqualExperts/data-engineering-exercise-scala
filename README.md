@@ -30,7 +30,7 @@ The project is set up to be executed inside an sbt-docker image, so the versions
 The sample code and test provided are meant to be deleted when you start to develop your solution.
 
 #### Your data ingestion should take into consideration the following:
-- ingested data should be friendly to query;
+- the database schema should be suitable for analytical queries;
 - basic data quality issues should be handled on the ingestion;
 - the ingestion code and strategy should be production level.
 
