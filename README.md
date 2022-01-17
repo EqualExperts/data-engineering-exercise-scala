@@ -49,5 +49,5 @@ Your submission is your own work, you will not share your submission with others
 
 ## Next Phase
 We are expecting you to succeed in this phase, so the next phase is an interview where we are expecting that you can show and run your solution on your end. 
-We'll give you our feedback and we'll ask for you to pair with us to solve a couple of sql questions on the loaded data. 
+You walk us through your solution and we're going to provide feedback and discuss any choices that you made.  
 Apart from the exercise, we'll have a conversation about your experience, and you'll let us know in detail your past challenges and your future expectations. Good Luck!
