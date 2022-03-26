@@ -17,10 +17,10 @@ You have been given the following user stories to action:
 Additional context:
 
 - You are provided a sample of posts and votes; in production, files like these will land as a supplier sends them
-- You will use sqlite3 for demonstration; your solution should treat sqlite3 as if it were a real data warehouse
-- If the sqlite3 database file is deleted, your pipeline should re-create it from posts and tags data
-- If the sqlite3 database file already exists, your pipeline should merge any new posts and votes data into it
-- Your program will be invoked with `pipenv run python src/main.py /path/to/posts_file.json /path/to/votes_file.json`
+- You will use h2 for demonstration; your solution should treat h2 as if it were a real data warehouse
+- If the h2 database file is deleted, your pipeline should re-create it from posts and tags data
+- If the h2 database file already exists, your pipeline should merge any new posts and votes data into it
+- Your program should be invoked with the /path/to/posts_file.json /path/to/votes_file.json as parameters
 
 This repo contains a bootstrap project to create the data ingestion in scala.
 The project is set up to be executed inside an sbt-docker image, so the versions of scala and java and sbt can be easily replicate. You are free to change anything about this bootstrap solution as you see fit (import another libs, create/delete src files, for example), so long as it can still be executed by a reviewer.
